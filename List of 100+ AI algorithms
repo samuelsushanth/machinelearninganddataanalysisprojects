@@ -1,0 +1,165 @@
+Machine Learning Algorithms
+	• Linear Regression
+	• Logistic Regression
+	• Decision Trees
+	• Random Forests
+	• Support Vector Machines (SVM)
+	• Naive Bayes
+	• K-Nearest Neighbors (KNN)
+	• K-Means Clustering
+	• Principal Component Analysis (PCA)
+	• Gradient Boosting Machines (GBM)
+	• AdaBoost
+	• Bagging
+	• Stochastic Gradient Descent (SGD)
+	• Mini-Batch K-Means
+	• Expectation Maximization (EM)
+	• Hierarchical Clustering
+	• DBSCAN
+	• OPTICS
+	• Spectral Clustering
+	• Anomaly Detection
+
+Optimization Algorithms
+	• Gradient Descent
+	• Stochastic Gradient Descent (SGD)
+	• Adam (Adaptive Moment Estimation)
+	• RMSprop (Root Mean Square Propagation)
+	• Genetic Algorithms 
+	• Simulated Annealing
+	• Particle Swarm Optimization (PSO)
+	• Ant Colony Optimization (ACO)
+	• Bee Algorithm
+	• Differential Evolution
+	• Firefly Algorithm
+	• Cuckoo Search
+	• Bayesian Optimization
+	• Conjugate Gradient Descent
+	• BFGS (Broyden-Fletcher-Goldfarb-Shanno)
+	• L-BFGS (Limited-memory BFGS)
+
+Natural Language Processing Algorithms
+	• Bag of Words (Bow)
+	• Term Frequency-Inverse Document Frequency (TF-IDF)
+	• Word2Vec
+	• Glove (Global Vectors for Word Representation)
+	• BERT (Bidirectional Encoder Representations from Transformers)
+	• GPT (Generative Pretrained Transformer)
+	• LDA (Latent Dirichlet Allocation)
+	• Seq2Seq Models
+	• Conditional Random Fields (CRF)
+	• Transformer-XL
+	• ELMO (Embeddings from Language Models)
+	• ROBERTA
+	• T5 (Text-to-Text Transfer Transformer)
+	• XLNet
+
+Ensemble Algorithms
+	• Boosting
+	• Bagging
+	• AdaBoost
+	• Gradient Boosting
+	• XGBoost (Extreme Gradient Boosting)
+	• LightGBM
+	• CatBoost
+	• Random Subspace
+	• Stacking
+	• Voting Classifier
+	• Blending
+	• MultiBoosting
+	• BrownBoost
+	• LogitBoost
+	• RUSBoost
+	• SMOTEBoost
+	• Gradient Boosting Machines (GBM)
+	• Balanced Random Forest
+	• Easy Ensemble Classifier
+	• Feature Subspace Ensemble
+
+Computer Vision
+Algorithms
+	• Edge Detection Algorithms (Sobel, Canny)
+	• Hough Transform
+	• Optical Flow
+	• Scale-Invariant Feature Transform (SIFT)
+	• Histogram of Oriented Gradients (HOG)
+	• Region-Based Convolutional Neural Networks (R-CNNs)
+	• YOLO (You Only Look Once)
+	• SSD (Single Shot MultiBox Detector)
+	• Fast R-CNN
+	• Faster R-CNN
+	• Mask R-CNN
+	• RetinaNet
+	• FCN (Fully Convolutional Network)
+	• GAN Variants (Pix2Pix, CycleGAN)
+
+Recommendation Systems
+	• Collaborative Filtering 
+	• Content-Based Filtering
+	• Matrix Factorization Techniques (SVD,NMF)
+	• Association Rule Learning (Apriori, Eclat)
+	• Neural Collaborative Filtering 
+	• Hybrid Recommendation Systems
+	• Context-Aware Recommendation Systems
+	• Factorization Machines
+	• DeepFM (Deep Factorization Machines)
+	• Wide & Deep Learning
+
+Reinforcement Learning Algorithms
+	• Q-Learning
+	• Deep Q Network (DQN)
+	• Policy Gradients
+	• Actor-Critic Methods
+	• Monte Carlo Tree Search (MCTS)
+	• Proximal Policy Optimization (PPO)
+	• Soft Actor-Critic (SAC)
+	• Trust Region Policy Optimization (TRPO)
+	• SARSA (State-Action-Reward-State-Action)
+	• Double DQN
+	• Dueling DQN
+	• Rainbow DQN
+	• TD-Lambda
+
+Anomaly Detection Algorithms
+	• Isolation Forest
+	• One-Class SVM
+	• Local Outlier Factor (LOF)
+	• Elliptic Envelope
+	• DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+	• K-Means Based Anomaly Detection
+	• PCA-Based Anomaly Detection
+	• Autoencoder-Based Anomaly Detection
+	• GMM (Gaussian Mixture Model)
+	• Hawkins-Cramer Test
+
+Deep Learning Algorithms
+	• Convolutional Neural Networks (CNNs)
+	• Recurrent Neural Networks (RNNs)
+	• Long Short-Term Memory Networks (LSTMs)
+	• Generative Adversarial Networks (GANS)
+	• Autoencoders Deep Belief Networks (DBNS)
+	• Transformer Networks
+	• U-Net
+	• ResNet
+	• VGGNet
+	• InceptionNet
+	• DenseNet
+	• MobileNet
+	• EfficientNet
+	• Capsule Networks
+
+Graph Algorithms in Al
+	• PageRank
+	• Graph Convolutional Networks (GCN)
+	• Node2Vec
+	• DeepWalk
+	• Graph Attention Networks (GAT)
+	• GraphSAGE
+	• Graph Isomorphism Networks (GIN)
+	• Random Walk
+	• Community Detection Algorithms
+	• Graph Embedding Techniques
+	• Louvain Method for Community Detection
+	• Label Propagation Algorithm
+	• Girvan-Newman Algorithm
+	• Graph Neural Networks (GNN)
